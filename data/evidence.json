@@ -1,0 +1,16 @@
+{
+  "recordId": "pg-demo-001",
+  "fictional": true,
+  "candidate": { "displayName": "Sofía Martínez", "age": 20 },
+  "role": "Auxiliar contable",
+  "assessment": "Auditoría de CFDI",
+  "task": "Revisó CFDI clasificados por IA, identificó errores y explicó una corrección bajo condiciones simuladas.",
+  "result": { "correct": 8, "total": 10 },
+  "aiAssistance": "Sugerencias visibles",
+  "conditions": "Muestra de trabajo simulada",
+  "provenance": "Demostración local ProofGuard",
+  "rubricVersion": "v1.0",
+  "limitations": "No prueba certificación, autoría independiente, personalidad, potencial ni desempeño laboral general.",
+  "evidenceDate": "2026-09-06",
+  "expiresAt": "2027-03-06"
+}
